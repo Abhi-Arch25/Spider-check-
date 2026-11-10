@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.23",
+    "version":  "3.4.24",
     "min_version":  "",
-    "download":  "Spider-3.4.23-Installer.zip",
-    "notes":  "Facade and window tools (StkFacade, StkWindow, StkFacadeProfile), StkReplace, StkHole, parametric parts; library folder is now Documents\\Spider standard parts",
+    "download":  "Spider-3.4.24-Installer.zip",
+    "notes":  "Library parts on their own nested layers: Screws::\u003cname\u003e, Profiles::\u003cname\u003e, Spider facade::Fixings::\u003cname\u003e ... turn one part or a whole group off",
     "date":  "2026-11-10",
-    "signature":  "dTF8My40LjIzfFNwaWRlci0zLjQuMjMtSW5zdGFsbGVyLnppcHxkY2JjOWFjNDdmZmVlNmQ4NzgzNGFlMmY2ODkyMDZmMTY0OThlYjYyZmFmYjdjMjM4YzEwMmE4MGQ2ODYzOGUz.-cWUgVYf1B3yMClPFHA_ifeGcGh6Zxt-2AZl7ISPDJjD6QAX29HFDvnSan-wTpaywW1al2nnETLBCkxSLRZMjw"
+    "signature":  "dTF8My40LjI0fFNwaWRlci0zLjQuMjQtSW5zdGFsbGVyLnppcHwyNzI4N2MzMjFlZjM2YWU0NjdiNjk4N2U0OTk4NTYzYzQ1NTdiZTM3MmYzMzJjMzdkNmVhZWYwMWZkMGYzN2Rk._aTdSmeTsgpFpYEu2NFPHAvEayvyCJotm-srfTHy7FQ7IjqB_f6QPnx53AemKNsqU1or98ykWQaZWyQqrapEww"
 }
