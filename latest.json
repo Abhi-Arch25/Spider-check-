@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.25",
+    "version":  "3.4.26",
     "min_version":  "",
-    "download":  "Spider-3.4.25-Installer.zip",
-    "notes":  "Locked parts library: StkPackLibrary makes a .spl pack; save it in Documents and Spider locks it to this PC",
+    "download":  "Spider-3.4.26-Installer.zip",
+    "notes":  "Credits: developed by Abhinay Kumar (company name removed)",
     "date":  "2026-11-10",
-    "signature":  "dTF8My40LjI1fFNwaWRlci0zLjQuMjUtSW5zdGFsbGVyLnppcHxkZDVhZjg0Nzc3Yzk1N2JmZjAxY2Y0OTIyNjFlOWI2MDA1MzRjZmFmNThjNDIwOGZmN2M0NmE0N2ZmZGUyZmE3.v8PQlIyCaAfNYHpHhvy-vM6tf86NamR254nItXIIWb3FaNBqPNEBL5FDWA3wmu42ye-AWA2PbnvUOZD7l0KcDw"
+    "signature":  "dTF8My40LjI2fFNwaWRlci0zLjQuMjYtSW5zdGFsbGVyLnppcHxiZDVkZDRkMzVlMDE1NzNmZjc0ZjlmNWYyNDhhYmQ2NDA5NTYwODU1ZTM1Zjc0YjBiMjY5YTQ5YmFmNDYyOTJl.7eMs4_-d-oQWUsDMO9DSzckhSAwZgSwLMNvKMLQwqRmkpj5kVkwiOyD6_R_mzwS_nnScfGEtrtkDGmXw0NSq6w"
 }
