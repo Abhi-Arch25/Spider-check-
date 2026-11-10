@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.38",
+    "version":  "3.4.39",
     "min_version":  "",
-    "download":  "Spider-3.4.38-Installer.zip",
-    "notes":  "More profiles (aluminium, Halfen/Hilti/Jordahl channels, UK/USA/China/Russia, tubes, bars, makers); clean thread drawing on all screws; faster parts window (preview cache, faster outline)",
+    "download":  "Spider-3.4.39-Installer.zip",
+    "notes":  "Parts library updates automatically from the shared folder K:\\Stueckliste Rhino Plugin",
     "date":  "2026-11-10",
-    "signature":  "dTF8My40LjM4fFNwaWRlci0zLjQuMzgtSW5zdGFsbGVyLnppcHwyMGY0ZmFiOWIzY2Y2OTQ5MjlmYThkZDVjNTljMzQ5NzFkMzI4ZDYxYTJmNWZhMjY5ZmE0ZTU4YWFiMmYwZTI4.eeAgnKMnTFnLPHk-BZBM_ZH127q6fShe4Z9tFuwHNhzFSzxJQPE-DiVsA4wcMThaHKIxCmzm3zevGBKVTX8uMQ"
+    "signature":  "dTF8My40LjM5fFNwaWRlci0zLjQuMzktSW5zdGFsbGVyLnppcHxjMTViMzFkNDQ2ZDFkZWYyNjZlZGI2MDY2MzM1ODAxZGQ4OWExYWI1YTkzNjllNDQ1MTBiOWZjNjg3YzUwMDRi.wKgFQcYUtagIip2HZMLDx262YABsWPuTK1IKqCdAgQ90oiwog_mpWmwmF8gnsQHEaAB3_8YdYf6nUHhnW0oZnw"
 }
