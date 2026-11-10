@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.24",
+    "version":  "3.4.25",
     "min_version":  "",
-    "download":  "Spider-3.4.24-Installer.zip",
-    "notes":  "Library parts on their own nested layers: Screws::\u003cname\u003e, Profiles::\u003cname\u003e, Spider facade::Fixings::\u003cname\u003e ... turn one part or a whole group off",
+    "download":  "Spider-3.4.25-Installer.zip",
+    "notes":  "Locked parts library: StkPackLibrary makes a .spl pack; save it in Documents and Spider locks it to this PC",
     "date":  "2026-11-10",
-    "signature":  "dTF8My40LjI0fFNwaWRlci0zLjQuMjQtSW5zdGFsbGVyLnppcHwyNzI4N2MzMjFlZjM2YWU0NjdiNjk4N2U0OTk4NTYzYzQ1NTdiZTM3MmYzMzJjMzdkNmVhZWYwMWZkMGYzN2Rk._aTdSmeTsgpFpYEu2NFPHAvEayvyCJotm-srfTHy7FQ7IjqB_f6QPnx53AemKNsqU1or98ykWQaZWyQqrapEww"
+    "signature":  "dTF8My40LjI1fFNwaWRlci0zLjQuMjUtSW5zdGFsbGVyLnppcHxkZDVhZjg0Nzc3Yzk1N2JmZjAxY2Y0OTIyNjFlOWI2MDA1MzRjZmFmNThjNDIwOGZmN2M0NmE0N2ZmZGUyZmE3.v8PQlIyCaAfNYHpHhvy-vM6tf86NamR254nItXIIWb3FaNBqPNEBL5FDWA3wmu42ye-AWA2PbnvUOZD7l0KcDw"
 }
