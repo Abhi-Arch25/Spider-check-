@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.5",
+    "version":  "3.4.23",
     "min_version":  "",
-    "download":  "Spider-3.4.5-Installer.zip",
-    "notes":  "New: StkProfile (hollow sections, I/H, U, angles along lines) and StkFixing (screws, nuts, washers, rivets, pins, anchors in holes), chosen from a table with drawings and threads. Both need the size tables on your PC.",
-    "date":  "2026-11-06",
-    "signature":  "dTF8My40LjV8U3BpZGVyLTMuNC41LUluc3RhbGxlci56aXB8NTk4YzZiYmNlZTJlZGNiOTY4MTFkNTY2Y2QxNGYxOGM0YWUxZWI1NTA3ZTJjMDQ2MjBkMmYxZWQ5ZjE1ODVmMg.maT6WcmOHPQ84-jOcO2UgF7612hJyIJn0HuIxq6BkPzfoDWYOrkcg22qQ75kFYcpcdLAc8qH3F1n0AvNLhs5xQ"
+    "download":  "Spider-3.4.23-Installer.zip",
+    "notes":  "Facade and window tools (StkFacade, StkWindow, StkFacadeProfile), StkReplace, StkHole, parametric parts; library folder is now Documents\\Spider standard parts",
+    "date":  "2026-11-10",
+    "signature":  "dTF8My40LjIzfFNwaWRlci0zLjQuMjMtSW5zdGFsbGVyLnppcHxkY2JjOWFjNDdmZmVlNmQ4NzgzNGFlMmY2ODkyMDZmMTY0OThlYjYyZmFmYjdjMjM4YzEwMmE4MGQ2ODYzOGUz.-cWUgVYf1B3yMClPFHA_ifeGcGh6Zxt-2AZl7ISPDJjD6QAX29HFDvnSan-wTpaywW1al2nnETLBCkxSLRZMjw"
 }
