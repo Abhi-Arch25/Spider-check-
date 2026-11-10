@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.29",
+    "version":  "3.4.38",
     "min_version":  "",
-    "download":  "Spider-3.4.29-Installer.zip",
-    "notes":  "Standard-parts window: library tree, nominal sizes, standard/free lengths, material grade, favourites; faster selection",
+    "download":  "Spider-3.4.38-Installer.zip",
+    "notes":  "More profiles (aluminium, Halfen/Hilti/Jordahl channels, UK/USA/China/Russia, tubes, bars, makers); clean thread drawing on all screws; faster parts window (preview cache, faster outline)",
     "date":  "2026-11-10",
-    "signature":  "dTF8My40LjI5fFNwaWRlci0zLjQuMjktSW5zdGFsbGVyLnppcHw1ZDEyODgwMTMwMTBjMjNkOGQxNzc1NTRiYTZlZjBhNTMyNjcyMTY5ZjNmNDhiZjc0MTE4YjRmYjc0MGFkYTQx.E8rF4Dln1yxt4Y3iGeR0ehSMZj-WMSm07HC5i-yw4h29P9IqP1ma96C3N910vfQ3OtmC9R9aGNRcvjqK6KYYBg"
+    "signature":  "dTF8My40LjM4fFNwaWRlci0zLjQuMzgtSW5zdGFsbGVyLnppcHwyMGY0ZmFiOWIzY2Y2OTQ5MjlmYThkZDVjNTljMzQ5NzFkMzI4ZDYxYTJmNWZhMjY5ZmE0ZTU4YWFiMmYwZTI4.eeAgnKMnTFnLPHk-BZBM_ZH127q6fShe4Z9tFuwHNhzFSzxJQPE-DiVsA4wcMThaHKIxCmzm3zevGBKVTX8uMQ"
 }
