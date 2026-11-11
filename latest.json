@@ -1,8 +1,8 @@
 {
-    "version":  "3.4.39",
+    "version":  "3.4.61",
     "min_version":  "",
-    "download":  "Spider-3.4.39-Installer.zip",
-    "notes":  "Parts library updates automatically from the shared folder K:\\Stueckliste Rhino Plugin",
-    "date":  "2026-11-10",
-    "signature":  "dTF8My40LjM5fFNwaWRlci0zLjQuMzktSW5zdGFsbGVyLnppcHxjMTViMzFkNDQ2ZDFkZWYyNjZlZGI2MDY2MzM1ODAxZGQ4OWExYWI1YTkzNjllNDQ1MTBiOWZjNjg3YzUwMDRi.wKgFQcYUtagIip2HZMLDx262YABsWPuTK1IKqCdAgQ90oiwog_mpWmwmF8gnsQHEaAB3_8YdYf6nUHhnW0oZnw"
+    "download":  "Spider-3.4.61-Installer.zip",
+    "notes":  "Screw double-click: hole options A/B/C with M-threads; closed holes no longer drawn in the Stückliste",
+    "date":  "2026-11-11",
+    "signature":  "dTF8My40LjYxfFNwaWRlci0zLjQuNjEtSW5zdGFsbGVyLnppcHxlMjg5Y2RiYjQzZmJmODc1ODY5NzUxNTRlN2RkM2Y5YWU3ZjgzZjExNmI4ODEwOTI3OTEwZDk2YzRkMTI0YTY4.nRQqWid6spMZVncMctaU6myajGH3nvfz0jaIVfVRSxE4EIQO5IkB3GAzHG2F70NdlMzR24Cejc6f0wMYOeZffA"
 }
